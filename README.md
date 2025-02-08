@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Safya</h1>
 <h3 align="center">Full-stack dev from France & UK</h3>
-<h4 align="center"> ˚⋆𐙚｡⋆𖦹.✧˚ </h4>
+<h4 align="center"> **˚⋆𐙚｡⋆𖦹.✧˚** </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safyai&label=Profile%20views&color=0e75b6&style=flat" alt="safyai" /> </p>
 
@@ -10,6 +10,7 @@
 ⋆⭒˚.⋆Fun fact **self-taught full-stack dev**
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="center">Only on github so far ! @safyai </h4>
 <p align="left">
 </p>
 
