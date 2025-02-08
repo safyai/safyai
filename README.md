@@ -7,7 +7,7 @@
  I’m currently working on **a tic-tac-toe project**
  & completing **CS50P on edX**
 
-⋆⭒˚.⋆Fun fact **self-taught full-stack dev**
+⋆⭒˚.⋆Fun fact **self-taught dev**
 
 <h3 align="left">Connect with me:</h3>
 <h4 align="center">Only on github so far ! </h4>
