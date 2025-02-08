@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safyai&label=Profile%20views&color=0e75b6&style=flat" alt="safyai" /> </p>
 
  I’m currently working on **a tic-tac-toe project**
- Learning **CS50 python**
+ & completing **CS50P on edX**
 
 ⋆⭒˚.⋆Fun fact **self-taught full-stack dev**
 
