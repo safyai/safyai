@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <h4 align="center">Only on github so far ! </h4>
-<p align="left">
-</p>
 <h4 align="center"> @safyai </h4>
+<h4 align="center"> ✩ </h4>
 <p align="left">
 </p>
 
